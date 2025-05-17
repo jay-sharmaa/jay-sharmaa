@@ -63,9 +63,6 @@
 
 ---
 
-### 🔗 Connect with Me
-
-[![Instagram](https://jay-sharmaa.github.io/jay-sharmaa/public/5296765_camera_instagram_instagram%20logo_icon.png)](https://www.instagram.com/___jay__sharma__/?hl=en)
 
 ---
 
