@@ -5,22 +5,6 @@
 
 ### 🛠️ Skills
 
-#### 🚀 Frontend
-
-<p align="left">
-  <img src="https://jay-sharmaa.github.io/jay-sharmaa/public/html.png" alt="HTML5" width="80" height="80"/>
-  <img src="https://jay-sharmaa.github.io/jay-sharmaa/public/css.png" alt="CSS3" width="80" height="80"/>
-  <img src="https://jay-sharmaa.github.io/jay-sharmaa/public/js.png" alt="JavaScript" width="65" height="65"/>
-  <img src="https://jay-sharmaa.github.io/jay-sharmaa/public/ts.png" alt="TypeScript" width="80" height="80"/>
-  <img src="https://jay-sharmaa.github.io/jay-sharmaa/public/react.png" alt="React" width="80" height="80"/>
-  <img src="https://jay-sharmaa.github.io/jay-sharmaa/public/redux.png" alt="Redux" width="80" height="80"/>
-  <img src="https://jay-sharmaa.github.io/jay-sharmaa/public/reactquery.png" alt="React Query" width="80" height="80"/>
-  <img src="https://jay-sharmaa.github.io/jay-sharmaa/public/tailwind.png" alt="Tailwind CSS" width="80" height="80"/>
-  <img src="https://jay-sharmaa.github.io/jay-sharmaa/public/next.png" alt="Next.js 13" width="80" height="80"/>
-  <img src="https://jay-sharmaa.github.io/jay-sharmaa/public/framer.png" alt="Framer Motion" width="80" height="80"/>
-  <img src="https://jay-sharmaa.github.io/jay-sharmaa/public/mui.png" alt="Material UI" width="80" height="80"/>
-</p>
-
 #### 🧠 Programming Languages
 
 <p align="left">
