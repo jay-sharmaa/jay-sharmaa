@@ -15,7 +15,7 @@
   <img src="https://jay-sharmaa.github.io/jay-sharmaa/public/dart.png" alt="Dart" width="80" height="80"/>
 </p>
 
-#### 💾 Backend
+#### 💾 Backend / Database
 
 <p align="left">
   <img src="https://jay-sharmaa.github.io/jay-sharmaa/public/sql.png" alt="SQL" width="80" height="80"/>
@@ -28,7 +28,7 @@
   <img src="https://jay-sharmaa.github.io/jay-sharmaa/public/graphql.png" alt="GraphQL" width="80" height="80"/>
 </p>
 
-#### 🌐 Full Stack & Tools
+#### 🌐 Full Stack & Tools / Containers
 
 <p align="left">
   <img src="https://jay-sharmaa.github.io/jay-sharmaa/public/and.png" alt="Native Android" width="80" height="80"/>
@@ -39,7 +39,7 @@
   <img src="https://jay-sharmaa.github.io/jay-sharmaa/public/node-js.png" alt="Node.js" width="80" height="80"/>
 </p>
 
-#### 🧪 Others
+#### 🧪 Machine Learning
 
 <p align="left">
   <img src="https://jay-sharmaa.github.io/jay-sharmaa/public/p.png" alt="PyTorch" width="60" height="60"/>
@@ -57,6 +57,6 @@
 
 ## Check Out Live Demo Of Projects
 
-[Jay Sharma's Portfolio](https://jay-sharma.vercel.app)
+[Jay Sharma](https://jay-sharma.vercel.app)
 
 > ⚡ *Code. Learn. Build. Repeat.*
