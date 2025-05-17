@@ -47,11 +47,6 @@
 
 ---
 
-
----
-
----
-
 ## 📊 GitHub Stats
 
 <p align="left">
@@ -59,5 +54,9 @@
 </p>
 
 ---
+
+## Check Out Live Demo Of Projects
+
+[Jay Sharma's Portfolio](https://jay-sharma.vercel.app)
 
 > ⚡ *Code. Learn. Build. Repeat.*
