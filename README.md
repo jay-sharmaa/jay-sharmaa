@@ -1,67 +1,73 @@
-# 👋 Hi, I'm Jay Sharma
-
-Welcome to my GitHub profile! I'm a passionate Full Stack Developer with expertise in building modern web and mobile applications. I enjoy working with a diverse tech stack, from front-end design to scalable back-end systems, and I’m constantly learning new tools and technologies.
-
----
-
-## 🚀 Tech Stack
-
-### 🖥️ Frontend
-<p align="left">
-  <img src="https://jay-sharmaa.github.io/portfolio/html.png" width="50" alt="HTML5"/>
-  <img src="https://jay-sharmaa.github.io/portfolio/css.png" width="50" alt="CSS3"/>
-  <img src="https://jay-sharmaa.github.io/portfolio/js.png" width="50" alt="JavaScript"/>
-  <img src="https://jay-sharmaa.github.io/portfolio/react.png" width="50" alt="React"/>
-  <img src="https://jay-sharmaa.github.io/portfolio/ts.png" width="50" alt="TypeScript"/>
-  <img src="https://jay-sharmaa.github.io/portfolio/tailwind.png" width="50" alt="TailwindCSS"/>
-  <img src="https://jay-sharmaa.github.io/portfolio/redux.png" width="50" alt="Redux"/>
-  <img src="https://jay-sharmaa.github.io/portfolio/reactquery.png" width="50" alt="React Query"/>
-  <img src="https://jay-sharmaa.github.io/portfolio/next.png" width="50" alt="Next.js 13"/>
-  <img src="https://jay-sharmaa.github.io/portfolio/mui.png" width="50" alt="Material UI"/>
-  <img src="https://jay-sharmaa.github.io/portfolio/framer.png" width="50" alt="Framer Motion"/>
-</p>
-
-### ⚙️ Backend
-<p align="left">
-  <img src="https://jay-sharmaa.github.io/portfolio/node-js.png" width="50" alt="Node.js"/>
-  <img src="https://jay-sharmaa.github.io/portfolio/mongodb.png" width="40" alt="MongoDB"/>
-  <img src="https://jay-sharmaa.github.io/portfolio/sql.png" width="50" alt="SQL"/>
-  <img src="https://jay-sharmaa.github.io/portfolio/mysql.png" width="50" alt="MySQL"/>
-  <img src="https://jay-sharmaa.github.io/portfolio/postger.png" width="50" alt="PostgreSQL"/>
-  <img src="https://jay-sharmaa.github.io/portfolio/prisma.webp" width="50" alt="Prisma"/>
-  <img src="https://jay-sharmaa.github.io/portfolio/graphql.png" width="50" alt="GraphQL"/>
-  <img src="https://jay-sharmaa.github.io/portfolio/fi.png" width="40" alt="Firebase"/>
-  <img src="https://jay-sharmaa.github.io/portfolio/supabase.png" width="50" alt="Supabase"/>
-</p>
-
-### 🌐 Full Stack & Dev Tools
-<p align="left">
-  <img src="https://jay-sharmaa.github.io/portfolio/and.png" width="50" alt="Native Android"/>
-  <img src="https://jay-sharmaa.github.io/portfolio/f.png" width="50" alt="Flutter"/>
-  <img src="https://jay-sharmaa.github.io/portfolio/docker.webp" width="50" alt="Docker"/>
-  <img src="https://jay-sharmaa.github.io/portfolio/figma.png" width="40" alt="Figma"/>
-  <img src="https://jay-sharmaa.github.io/portfolio/stripe.webp" width="50" alt="Stripe"/>
-</p>
-
-### 🧠 Other Skills
-<p align="left">
-  <img src="https://jay-sharmaa.github.io/portfolio/cpp.png" width="50" alt="C++"/>
-  <img src="https://jay-sharmaa.github.io/portfolio/py.png" width="50" alt="Python"/>
-  <img src="https://jay-sharmaa.github.io/portfolio/java.webp" width="50" alt="Java"/>
-  <img src="https://jay-sharmaa.github.io/portfolio/kotlin.png" width="50" alt="Kotlin"/>
-  <img src="https://jay-sharmaa.github.io/portfolio/dart.png" width="50" alt="Dart"/>
-  <img src="https://jay-sharmaa.github.io/portfolio/html.png" width="80" height="80" alt="HTML5 Logo" />
-</p>
+<h1 align="center">Hi 👋, I'm Jay Sharma</h1>
+<h3 align="center">A passionate full-stack developer</h3>
 
 ---
 
-## 📲 Connect With Me
+### 🛠️ Skills
+
+#### 🚀 Frontend
 
 <p align="left">
-  <a href="https://www.instagram.com/___jay__sharma__/?hl=en" target="_blank">
-    <img src="https://jay-sharmaa.github.io/portfolio/5296765_camera_instagram_instagram%20logo_icon.png" width="40" alt="Instagram"/>
-  </a>
+  <img src="https://jay-sharmaa.github.io/jay-sharmaa/public/html.png" alt="HTML5" width="80" height="80"/>
+  <img src="https://jay-sharmaa.github.io/jay-sharmaa/public/css.png" alt="CSS3" width="80" height="80"/>
+  <img src="https://jay-sharmaa.github.io/jay-sharmaa/public/js.png" alt="JavaScript" width="65" height="65"/>
+  <img src="https://jay-sharmaa.github.io/jay-sharmaa/public/ts.png" alt="TypeScript" width="80" height="80"/>
+  <img src="https://jay-sharmaa.github.io/jay-sharmaa/public/react.png" alt="React" width="80" height="80"/>
+  <img src="https://jay-sharmaa.github.io/jay-sharmaa/public/redux.png" alt="Redux" width="80" height="80"/>
+  <img src="https://jay-sharmaa.github.io/jay-sharmaa/public/reactquery.png" alt="React Query" width="80" height="80"/>
+  <img src="https://jay-sharmaa.github.io/jay-sharmaa/public/tailwind.png" alt="Tailwind CSS" width="80" height="80"/>
+  <img src="https://jay-sharmaa.github.io/jay-sharmaa/public/next.png" alt="Next.js 13" width="80" height="80"/>
+  <img src="https://jay-sharmaa.github.io/jay-sharmaa/public/framer.png" alt="Framer Motion" width="80" height="80"/>
+  <img src="https://jay-sharmaa.github.io/jay-sharmaa/public/mui.png" alt="Material UI" width="80" height="80"/>
 </p>
+
+#### 🧠 Programming Languages
+
+<p align="left">
+  <img src="https://jay-sharmaa.github.io/jay-sharmaa/public/cpp.png" alt="C++" width="80" height="80"/>
+  <img src="https://jay-sharmaa.github.io/jay-sharmaa/public/py.png" alt="Python" width="80" height="80"/>
+  <img src="https://jay-sharmaa.github.io/jay-sharmaa/public/java.webp" alt="Java" width="65" height="65"/>
+  <img src="https://jay-sharmaa.github.io/jay-sharmaa/public/kotlin.png" alt="Kotlin" width="80" height="80"/>
+  <img src="https://jay-sharmaa.github.io/jay-sharmaa/public/dart.png" alt="Dart" width="80" height="80"/>
+</p>
+
+#### 💾 Backend
+
+<p align="left">
+  <img src="https://jay-sharmaa.github.io/jay-sharmaa/public/sql.png" alt="SQL" width="80" height="80"/>
+  <img src="https://jay-sharmaa.github.io/jay-sharmaa/public/supabase.png" alt="Supabase" width="80" height="80"/>
+  <img src="https://jay-sharmaa.github.io/jay-sharmaa/public/mongodb.png" alt="MongoDB" width="40" height="40"/>
+  <img src="https://jay-sharmaa.github.io/jay-sharmaa/public/fi.png" alt="Firebase" width="55" height="55"/>
+  <img src="https://jay-sharmaa.github.io/jay-sharmaa/public/postger.png" alt="PostgreSQL" width="70" height="70"/>
+  <img src="https://jay-sharmaa.github.io/jay-sharmaa/public/mysql.png" alt="MySQL" width="70" height="70"/>
+  <img src="https://jay-sharmaa.github.io/jay-sharmaa/public/prisma.webp" alt="Prisma" width="70" height="70"/>
+  <img src="https://jay-sharmaa.github.io/jay-sharmaa/public/graphql.png" alt="GraphQL" width="80" height="80"/>
+</p>
+
+#### 🌐 Full Stack & Tools
+
+<p align="left">
+  <img src="https://jay-sharmaa.github.io/jay-sharmaa/public/and.png" alt="Native Android" width="80" height="80"/>
+  <img src="https://jay-sharmaa.github.io/jay-sharmaa/public/f.png" alt="Flutter" width="80" height="80"/>
+  <img src="https://jay-sharmaa.github.io/jay-sharmaa/public/docker.webp" alt="Docker" width="70" height="70"/>
+  <img src="https://jay-sharmaa.github.io/jay-sharmaa/public/figma.png" alt="Figma" width="50" height="50"/>
+  <img src="https://jay-sharmaa.github.io/jay-sharmaa/public/stripe.webp" alt="Stripe Payment" width="80" height="80"/>
+  <img src="https://jay-sharmaa.github.io/jay-sharmaa/public/node-js.png" alt="Node.js" width="80" height="80"/>
+</p>
+
+#### 🧪 Others
+
+<p align="left">
+  <img src="https://jay-sharmaa.github.io/jay-sharmaa/public/p.png" alt="PyTorch" width="60" height="60"/>
+</p>
+
+---
+
+### 🔗 Connect with Me
+
+[![Instagram](https://jay-sharmaa.github.io/jay-sharmaa/public/5296765_camera_instagram_instagram%20logo_icon.png)](https://www.instagram.com/___jay__sharma__/?hl=en)
+
+---
 
 ---
 
