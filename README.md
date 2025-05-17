@@ -50,7 +50,7 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer with experti
   <img src="https://jay-sharmaa.github.io/portfolio/java.webp" width="50" alt="Java"/>
   <img src="https://jay-sharmaa.github.io/portfolio/kotlin.png" width="50" alt="Kotlin"/>
   <img src="https://jay-sharmaa.github.io/portfolio/dart.png" width="50" alt="Dart"/>
-  <img src="https://jay-sharmaa.github.io/portfolio/p.png" width="50" alt="PyTorch"/>
+  <img src="https://jay-sharmaa.github.io/portfolio/html.png" width="80" height="80" alt="HTML5 Logo" />
 </p>
 
 ---
@@ -66,11 +66,6 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer with experti
 ---
 
 ## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jay-sharmaa&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jay-sharmaa&theme=radical" width="48%"/>
-</p>
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jay-sharmaa&layout=compact&theme=radical" width="48%"/>
