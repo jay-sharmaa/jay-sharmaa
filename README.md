@@ -11,6 +11,15 @@
 
 ---
 
+<h1 align="center">Hi 👋, I'm Jay Sharma</h1>
+<h3 align="center">A passionate Software Developer</h3>
+
+- See my portfolio [jay-sharma.vercel.app/](https://jay-sharma.vercel.app/)
+- You can contact me [jay@mail](https://mail.google.com/mail/?view=cm&fs=1&to=sjaysharma00@gmail.com)
+- Currently learning all things android
+
+---
+
 ### Languages and Tools:
 
 <p>
