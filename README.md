@@ -20,6 +20,19 @@
 
 ---
 
+### Find me at:
+<p>
+  <a href="https://leetcode.com/u/var_jaysharma/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" />
+</a>
+
+<a href="https://www.kaggle.com/naivedatamodel" target="_blank">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" />
+</a>
+</p>
+
+---
+
 ### Languages and Tools:
 
 <p>
