@@ -47,6 +47,31 @@
 
 ---
 
+### Languages and Tools:
+
+<p>
+  <img src="https://img.shields.io/badge/C-blue?style=flat&logo=c" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel" />
+</p>
+
 ## 📊 GitHub Stats
 
 <p align="left">
