@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm Jay Sharma</h1>
-<h3 align="center">A passionate full-stack developer</h3>
-
 ---
 
 ## 📊 GitHub Stats
