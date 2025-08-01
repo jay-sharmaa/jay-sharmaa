@@ -6,11 +6,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jay-sharmaa&layout=compact&theme=radical" width="48%"/>
 </p>
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/jay-sharmaa/jay-sharmaa/output/github-contribution-grid-snake.svg" />
-</p>
-
-
 ---
 
 <h1 align="center">Hi 👋, I'm Jay Sharma</h1>
