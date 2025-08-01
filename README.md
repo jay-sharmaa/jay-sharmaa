@@ -4,6 +4,7 @@
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jay-sharmaa&layout=compact&theme=radical" width="48%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jay-sharmaa&theme=radical&hide_border=true" />
 </p>
 
 ---
@@ -54,4 +55,9 @@
   <img src="https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
 </p>
