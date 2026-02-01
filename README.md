@@ -3,7 +3,7 @@
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jay-sharmaa&layout=compact&theme=radical" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jay-sharmaa&theme=react" width="400"/>
 </p>
 
 ---
